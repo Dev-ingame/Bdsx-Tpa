@@ -1,0 +1,17 @@
+{
+  "name": "@bdsx/tpa",
+  "version": "1.0.0",
+  "description": "bdsx Tpa plugin",
+  "main": "index.js",
+  "bdsxPlugin": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tpa",
+    "tpaccept",
+    "tpadeny"
+  ],
+  "author": "Devingame",
+  "license": "MIT"
+}
